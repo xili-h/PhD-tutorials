@@ -1,4 +1,4 @@
-Installating PAMR on ComputeCanada Systems
+Installing PAMR on ComputeCanada Systems
 ==========================================
 
 This document serves as a guide to install PAMR on the ComputeCanada systems such as Graham and Cedar. In the following, I will make the assumptions:
@@ -8,7 +8,7 @@ This document serves as a guide to install PAMR on the ComputeCanada systems suc
 
 Note that the PAMR configuration file will check for certain RNPL libraries, such as `bbhutil`. It may be the case that RNPL and associated libraries are already installed (for example, somewhere in `/home/matt`).
 
-### 1. Download PAMR & Setup the Environment
+### 1. Download PAMR & Configure the Environment
 
 Download the PAMR tarball:
 ```
