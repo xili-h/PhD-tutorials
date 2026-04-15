@@ -6,6 +6,8 @@ The code in this directory illustrates basic functionality of RNPL (Rapid Numeri
 
 In `rnpletal-installguide.md`, I provide instructions on how to install the RNPL compiler and necessary libraries, along with visualization software XVS and DV. In `rnpletal-installguide-CC.md`, I provide instructions on how to install RNPL on the ComputeCanada systems.
 
+In `rnpletel-installguide-docker.md`, I added instructions on how to install RNPL with XVS and DV using docker. It can be used on Windows 11 or other not supported flavour of Linux. HH
+
 Further reading:
 ```
 R. L. Marsa. Radiative Problems in Black Hole Spacetimes. PhD thesis, The University of Texas at Austin, 1995.
