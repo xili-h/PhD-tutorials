@@ -48,7 +48,7 @@ apptainer shell rnpletal.sif
 xvs
 ```
 
-### 3.2 Windows: convert docker image to WSL (optional)
+### 3.2 Windows: convert docker image into WSL (optional)
 The offical instructions can be found [here](https://learn.microsoft.com/en-us/windows/wsl/use-custom-distro).
 
 #### 2. Export the container to a tar file:
